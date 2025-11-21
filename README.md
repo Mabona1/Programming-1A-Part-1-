@@ -1,1 +1,1 @@
-This is part 2 of my POE and I've added functionality to my app, in short I can say the end user can now send messages after logging in.
+This is part 3 of my POE, which is basically the last part. The app name is QuickChat and it is a simple messaging app that lets users send and view messages instantly. My app is now fully functional.
